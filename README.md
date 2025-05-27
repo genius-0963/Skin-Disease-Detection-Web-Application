@@ -39,7 +39,7 @@
 
 ```bash
 # Clone and install
-git clone https://github.com/yourusername/dermdetect.git
+git clone https://github.com/genius-0963/Skin-Disease-Detection-Web-Application.git
 cd dermdetect
 npm install
 
