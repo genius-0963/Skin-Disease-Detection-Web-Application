@@ -1,6 +1,6 @@
 # 🏥 DermDetect - Skin Disease Detection Web Application
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-blue)](https://dermdetect.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-blue)](https://skin-disease-detection-web-applicat.vercel.app/)
 
 A modern web application that helps users detect and understand various skin conditions using advanced image recognition technology.
 
